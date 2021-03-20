@@ -5,7 +5,7 @@ Flask==1.0.2
 Flask-Login==0.4.1
 idna==2.8
 itsdangerous==1.1.0
-Jinja2==2.10
+Jinja2==2.11.3
 ldap3==2.5.2
 MarkupSafe==1.1.0
 pkg-resources==0.0.0
